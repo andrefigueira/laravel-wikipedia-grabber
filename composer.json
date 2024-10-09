@@ -1,5 +1,5 @@
 {
-    "name": "illuminated/wikipedia-grabber",
+    "name": "andrefigueira/wikipedia-grabber",
     "description": "Wikipedia/MediaWiki Grabber for Laravel.",
     "keywords": ["laravel", "wikipedia", "mediawiki", "wiki", "grabber", "parser", "wikipedia-grabber", "wikipedia-parser"],
     "license": "MIT",
